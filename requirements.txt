@@ -1,0 +1,15 @@
+Django==4.1.1
+dj-rest-auth==2.2.5
+python-decouple==3.6
+psycopg2==2.9.4
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.0
+pytz==2022.2.1
+python-dateutil==2.8.2
+backports.zoneinfo;python_version<"3.9"
+cfgv==3.3.1
+PyJWT==2.5.0
+virtualenv==20.16.5
+django-nose==1.4.7
+coverage==6.5.0
+names==0.3.0
